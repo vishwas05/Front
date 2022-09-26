@@ -1,0 +1,58 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+   
+
+  }
+
+  li a {
+    display: block;
+    color: black;
+    /* text-align: center; */
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.brand{
+    position: relative;
+    left: 90px
+}
+.button{
+margin: 11px;
+}
+.navigationbar{
+    float: right;
+    display: flex;
+}
+.vector{
+    float: right;
+    z-index: -1;
+    position: relative;
+    bottom: 500px;
+    left: 11px;
+}
+.grey{
+    color: grey;
+}
+.content{
+    position: relative;
+    top: 100px;
+    left: 80px;
+    /* display: flex; */
+}
+.sign{
+   
+    /* padding: 10px; */
+    border-radius: 4px;
+    color: white;
+    background-color: green;
+    border: none;
+    /* padding: 10px; */
+    height: 40px;
+    width: 120px;
+}
+.basket{
+    
+}
+

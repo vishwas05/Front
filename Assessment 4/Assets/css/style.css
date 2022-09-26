@@ -1,0 +1,236 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    right: 212px;
+    bottom: 278px;
+
+  }
+  /* .eclips {
+    width: 1129px;
+    height: 900px;
+    background-color: #eaffe2;
+    border-radius: 50%;
+    z-index: -1; */
+    /* overflow: hidden; */
+    /* bottom: 555px;
+    position: relative;
+    left: 638px; */
+    /* float: right; */
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* .sign{
+
+  }
+  .login{
+
+  } */
+  .vector{
+    position: absolute;
+    right: 0;
+    
+    z-index: -1;
+  }
+  .ellipse{
+    height: 500px;
+    width: 500px;
+    /* position: relative; */
+    /* bottom: 56px; */
+    
+  }
+  .brand{
+    height: 85px;
+    position: relative;
+    left: 50px;
+  }
+  .lorem{
+    left: 60px;
+    position: relative;
+    top: 145px;
+  }
+  .lorem2{
+    top: 157px;
+    position: relative;
+    left: 58px;
+    /* display: flex; */
+  }
+  .basket{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 550px;
+    bottom: 160px;
+    
+    
+  }
+  .top{
+    float: right;
+    position: relative;
+    bottom: 600px;
+  }
+  .group{
+    display: flex;
+  }
+  .group{
+    position: relative;
+    top: 40px;
+  }
+  .category{
+    position: relative;
+    left: 100px;
+  }
+  .beverage{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid black; */
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+
+    left: 100px;
+    top: 45px;
+    /* border: none; */
+    /* border: none; */
+  }
+  .bev{
+    position: relative;
+    /* left: 45px; */
+    top: 16px;
+    padding: 0 40px;
+  }
+  .rage{
+    position: relative;
+    top: 35px;
+    /* left: 62px; */
+    padding: 0 40px;
+  }
+  .flex1{
+    display: flex;
+    /* background-color: #F4F1EA; */
+    /* padding: 0 70px; */
+    /* margin: 20px; */
+  }
+  .offer{
+    position: relative;
+    left: 100px;
+    top: 150px;
+  }
+  .rectangle{
+    height: 300px;
+    width: 200px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    top: 224px;
+    left: 63px;
+    /* border: none; */
+    padding: 0 40px;
+
+  }
+  .cottage{
+    position: relative;
+    left: 44px;
+    bottom: 15px;
+  }
+  .kg{
+    position: relative;
+    left: 44px;
+    bottom: 22px;
+    color: grey;
+  }
+  .dollar{
+    position: relative;
+    left: 44px;
+    bottom: 22px;
+    
+  }
+  .selling{
+    position: relative;
+    top: 200px;
+    left: 50px;
+  }
+  .ice{
+    height: 275px;
+    width: 200px;
+    /* border: 1px solid black; */
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    top: 410px;
+    left: 15px;
+    border: none;
+    padding: 0 40px;
+    margin: 12px;
+    background-color: white;
+  }
+  .cream{
+    position: relative;
+    left: 12px;
+  }
+  .green{
+    color: darkgreen;
+  }
+  .popular{
+    position: relative;
+    top: 500px;
+    left: 75px;
+  }
+  .hand{
+    height: 340px;
+    width: 200px;
+    /* border: 1px solid black; */
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    top: 530px;
+    left: 45px;
+    margin: 11px;
+    border: none;
+    padding: 0 40px;
+  }
+  .vegetable{
+    position: relative;
+    top: 570px;
+    display: flex;
+  }
+  .object{
+    position: relative;
+    left: 400px;
+    top: 300px;
+  }
+ .subscribe{
+    position: relative;
+    top: 90px;
+    right: 516px;
+}
+ .screen{
+    position: relative;
+    top: 425px;
+    left : 334px;
+}
+.flex2{
+    display: flex;
+    background-color: #F4F1EA;
+
+}
+
+.footer{
+    position: relative;
+    top: 500px;
+}
+.bgcolor{
+    background-color: #F6F9F0;
+}
+ 
+ 

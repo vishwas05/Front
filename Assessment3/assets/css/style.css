@@ -1,0 +1,316 @@
+.header{
+    height: auto;
+    width: auto;
+    border: 1px solid white;
+    /* border: none; */
+}
+
+
+
+
+.function{
+    float: right;
+    position: relative;
+    right: 661px;
+    top: 53px;
+    /* font-family: sans-serif; */
+}
+.img1{
+    position: relative;
+    left: 138px;
+    top: 50px;
+}
+.design{
+    color: rgb(32, 179, 198);
+    position: relative;
+    bottom: 17px;
+}
+.right{
+    position: relative;
+    left: 665px;
+    bottom: 142px;
+    
+}
+.lorem{
+    position: relative;
+    top: 132px;
+    width: 1000px;
+    left: 150px;
+}
+.employ{
+    height: 30px;
+    width: 500px;
+    border: 1px solid black;
+    position: relative;
+    top: 20px;
+    left: 156px;
+    background-color: black;
+    color: white;
+}
+.bar{
+    position: relative;
+    left: 40px;
+    bottom: 49px;
+    color: white;
+}
+.content{
+    position: relative;
+    left: 168px;
+    top: 25px;
+}
+.dept{
+    position: relative;
+    bottom: 20px;
+    color: grey;
+}
+.year{
+    color: grey;
+    position: relative;
+    left: 420px;
+    bottom: 74px;
+}
+.lorem1{
+    width: 510px;
+    position: relative;
+    bottom: 54px;
+}
+body{
+    font-family: sans-serif;
+}
+
+.forest{
+    color: rgb(32, 179, 198);
+}
+.firstbox{
+    width: 265px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: lightgray;
+    position: relative;
+    bottom: 10px;
+    border: none;
+}
+.program{
+    float: right;
+    position: relative;
+    bottom: 938px;
+    right: 80px;
+}
+.secondbox{
+    width: 230px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: slateblue;
+    border: none
+    /* z-index: -1; */
+}
+.thirdbox{
+    width: 210px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: steelblue;
+    border: none;
+}
+.fourthbox{
+    width: 235px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: green;
+    border: none;
+}
+.fifthbox{
+    width: 210px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: yellow;
+    border: none;
+}
+.sixthbox{
+    width: 190px;
+    height: 18px;
+    border: 1px solid black;
+    background-color: red;
+    border: none;
+}
+.graph{
+    float: right;
+    bottom: 518px;
+    position: relative;
+    left: 80px;
+}
+
+/* .radio-selector{
+    float: right;
+} */
+.small{
+   
+    top: 16px;
+    height: 10px;
+    width: 10px;
+    border: 1px solid black;
+    position: relative;
+    right: 20px;
+    border: none;
+}
+.space{
+    margin: 0;
+}
+.fit{
+    margin: 10px;
+    position: relative;
+    right: 10px;
+}
+.lang{
+    position: relative;
+    float: right;
+    bottom: 269px;
+    left: 278px;
+}
+.radio {
+
+    border: 2px solid;
+
+    width: 20px;
+
+    float: left;
+
+    margin-right: 14px;
+
+    height: 20px;
+
+    border-radius: 17px;
+
+}
+
+
+
+
+.radio::after {
+
+    content: "";
+
+    position: absolute;
+
+    height: 20px;
+
+    width: 20px;
+
+    border-radius: 17px;
+
+    transform: scale(1.5);
+
+}
+
+.aqua::after{
+
+   background-color: aqua;
+
+}
+
+.red{
+    background-color: slateblue;
+    border: none;
+}
+
+.green{
+    background-color: steelblue;
+    border: none;
+}
+.blue{
+    background-color: green;
+}
+.purple{
+    background-color: yellow;
+}
+.dark{
+    background-color: red;
+}
+.ninety{
+    position: relative;
+    /* bottom: 17px; */
+    left: 197px;
+    color: white;
+    /* z-index: 1; */
+    /* z-index: 1; */
+}
+.eighty{
+    position: relative;
+    /* bottom: 17px; */
+    left: 176px;
+    color: white;
+}
+.ninetythree{
+    
+    
+    position: relative;
+    /* bottom: 17px; */
+    left: 202px;
+    color: white;
+}
+.eight{
+    position: relative;
+    /* bottom: 17px; */
+    left: 177px;
+    color: white;
+}
+.seventy{
+    position: relative;
+    /* bottom: 17px; */
+    left: 157px;
+    color: white;
+}
+.skills{
+    margin-left: 25px;
+}
+.gree::after{
+
+    background-color: green;
+ 
+ }
+ .yell::after{
+
+    background-color: yellow;
+ 
+ }
+ .margin{
+    margin: 2px;
+ }
+ .eng{
+    position: relative;
+    right: 82px;
+    top: 37px;
+}
+ .hr{
+    width: 500px;
+    position: relative;
+    right: 200px;
+ }
+ .container{
+    height: auto;
+    width: auto;
+    /* border: 2px solid black; */
+    /* background-color: grey; */
+ }
+ .arrow{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    bottom: 3px;
+    right: 1px;
+ }
+ .point{
+    position: relative;
+    right: 40px;
+    top: 54px
+ }
+ .ss{
+position: relative;
+/* position: relative; */
+    bottom: 16px;
+    right: 2px;
+ }
+ .fan{
+    position: relative;
+    right: 40px;
+    top: 54px
+ }

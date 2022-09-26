@@ -1,0 +1,229 @@
+.grey{
+    color: grey;
+}
+.black{
+    color: black;
+    padding: 0px 18px;
+}
+.padding{
+    padding: 15px 27px;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 45px 0px 14px;
+    }
+    
+
+.input{
+    display: flex;
+    padding: 12px;
+}
+.first{
+
+    padding: 10px;
+    width: 266px;
+    border-radius: 8px;
+    /* border-color: gray; */
+    border: 4px solid hsl(0deg 0% 96%);
+    background-color: hsl(0deg 0% 96%);
+}
+
+.label{
+    padding: 0px 32px;
+}
+.input1{
+    border: 4px solid hsl(0deg 0% 96%);
+    width: 634px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: hsl(0deg 0% 96%);
+
+}
+.input2{
+    display: flex;
+    padding: 10px;
+    /* background-color: lightgrey; */
+    
+}
+
+.radio{
+    display: flex;
+    padding: 11px 45px 11px 32px;
+    width: 670px;
+    margin-left: 13px;
+    border-radius: 8px;
+    border: 4px solid hsl(0deg 0% 96%);
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: rgb(245, 245, 245);
+}
+.blank{
+    height: 80px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: rgb(245, 245, 245);
+    border: none;
+    
+    
+}
+.card{
+    padding: 10px;
+    width: 600px;
+    border-radius: 8px;
+    /* border-color: gray; */
+    border: 4px solid hsl(0deg 0% 96%);
+    background-color: hsl(0deg 0% 96%);
+}
+.title{
+    line-height: 8px;
+    padding: 0px 26px;
+    position: relative;
+    right: 170px;
+}
+.wish{
+    padding: 0px 15px;
+    line-height: 5px;
+}
+.dollar{
+    /* padding: 0px 40px; */
+    position: relative;
+    right: 75px;
+}
+.green{
+    color: hsl(90deg 43% 42%);
+    font-size: 19px;
+}
+.decorate{
+    text-decoration: line-through;
+font-size: 12px;
+}
+.button{
+    border-radius: 10px;
+    width: 76px;
+    height: 35px;
+}
+.hr{
+    width: 305px;
+    float: left;
+}
+.container{
+    display: flex;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.apply{
+    /* border: 1px solid black; */
+    border-radius: 6px;
+    width: 570px;
+    /* height: 25px; */
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.bigbox{
+    border: 2px solid hsl(0deg 0% 96%);
+    border-radius: 6px;
+    position: relative;
+    left: 20px;
+    padding: 0px 12px;
+}
+.border{
+    border: 2px solid hsl(0deg 0% 96%);
+    border-radius: 6px;
+    width: 747px;
+    height: 44vh;
+    margin-left: 13px;
+}
+.cardd{
+    padding: 10px;
+    width: 600px;
+    border-radius: 6px;
+    border-color: hsl(0deg 0% 96%);
+    border: 1px solid gray;
+    background-color: hsl(0deg 0% 96%);
+    height: 100px;
+}
+.complete{
+    padding: 21px 55px;
+    position: relative;
+    left: 12px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-size: larger;
+}
+.tick{
+    padding: 20px;
+}
+.advanced{
+    width: 215px;
+    color: grey;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.greeen{
+    color: hsl(90deg 43% 42%);
+
+}
+.ex{
+    height: 25px;
+    width: 65px;
+}
+.second{
+    border-radius: 8px;
+    border-color: gray;
+    border: 1px solid gray;
+    background-color: hsl(0deg 0% 96%);
+    padding: 10px;
+}
+.cc{
+    padding: 0px 45px;
+}
+.circle{
+    position: relative;
+    bottom: 50px;
+}
+.visa{
+    height: 25px;
+    width: 80px;
+    position: relative;
+    bottom: 55px;
+    float: right;
+    right: 20px;
+
+}
+.outerdiv{
+    margin-left: 26px;
+}
+.method{
+    display: flex;
+    justify-content: space-between;
+    width: 747px;
+}
+.input11{
+    border: 1px solid;
+    width: 294px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: hsl(0deg 0% 96%);
+}
+.flex3{
+    display: flex;
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+.greeeen{
+    color: hsl(90deg 43% 42%);
+    font-size: 30px;
+
+}
+.line{
+    line-height: 0px;
+}
+
+

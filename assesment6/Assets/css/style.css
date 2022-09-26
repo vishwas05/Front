@@ -1,0 +1,17 @@
+.navigationbar{
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.nav{
+    padding-right: 40px;
+}
+.content{
+    border: 2px solid black;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.para{
+    width: 650px;
+}

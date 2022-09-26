@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    /* background-size: cover;/ */
+    background-image: linear-gradient( to right,aqua, aquamarine);
+}
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10% auto;
+    position: relative;
+
+}
+.container form{
+  width: 300px;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  /* transition: 1s; */
+}
+form input{
+    width: 100%;
+    padding: 10px 5px;
+    margin: 5px 0;
+    /* border: none; */
+    /* border-bottom: 1px solid grey; */
+}
+.buttonbox{
+    width: 100%;
+    margin: 30px auto;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 35px;
+    background: linear-gradient( to right, blue, lightblue);
+    color: white;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+    /* background-color: azure; */
+}
+.head{
+    text-align: center;
+    
+}
+#form2{
+    /* position: relative; */
+    /* left: 450px; */
+    display: none;
+}
+#form3{
+    /* position: relative; */
+    /* left: 450px; */
+    display: none;
+}

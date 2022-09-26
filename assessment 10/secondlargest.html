@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>secondmaxnumber</title>
+</head>
+<body>
+    <!-- <script>
+        function SecondMaxNumber(a,b)
+        {
+            a.sort();
+            let second_max =0;
+            for(i = b-2; i>=0; i--)
+            {
+                if (a[i] != a[b - 1]){
+                second_max = a[i];
+                break
+            }
+        }
+        return second_max;
+    }
+    const a = [1,2,8,6,0,4,5,7,];
+    let b = a.length;
+    let answer= SecondMaxNumber(a,b);
+    console.log("The second max number is:" + answer);
+</script> -->
+<script>
+   
+    function factorialize(num) {
+      //  console.log(num);
+  if (num < 0) 
+
+        return -1;
+  else if (num == 0) 
+      return 1;
+  else {
+      return (num * factorialize(num - 1));
+      
+  }
+  
+}
+console.log(factorialize(5));
+
+
+
+</script>
+    
+</body>
+</html>

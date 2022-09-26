@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multi step form</title>
+  </head>
+  <body>
+      <div class="boxcard">
+        <div class="form1" id="Step1">
+          <h5>STEP 1</h5>
+          <div class="common">
+            <label for="noname">Name</label>
+            <input onchange="(e)=>onchange(e)" type="text" id="noname" />
+            <p class="error"></p>
+          </div>
+          <div class="common">
+            <label for="datee">Date of birth</label>
+            <input type="date" id="datee" />
+            <p class="error"></p>
+          </div>
+          <div class="common">
+            <label for="adres">Address</label>
+            <input type="text" id="adres" />
+            <p class="error"></p>
+          </div>
+          <button type="button" id="next" onclick="nextbtn()">Next</button>
+        </div>
+
+        <div class="form2" id="Step2">
+          <h5>STEP 2</h5>
+          <div class="common">
+            <label for="bldgrp">Blood group</label>
+            <input type="text" id="bldgrp" />
+            <p class="error"></p>
+          </div>
+          <div class="common">
+            <label for="qualify">Qualification</label>
+            <input type="text" id="qualify" />
+            <p class="error"></p>
+          </div>
+          <div class="btn-section">
+            <button type="button" id="prev" onclick="previous()">
+              Previous
+            </button>
+            <button type="button" id="secnext" onclick="nextbn()">Next</button>
+          </div>
+        </div>
+        <div class="form3" id="Step3">
+          <h5>STEP 3</h5>
+          <div class="common">
+            <label for="user0">Username</label>
+            <input type="text" id="user0" />
+            <p class="error"></p>
+          </div>
+          <div class="common">
+            <label for="pass-d">Password</label>
+            <input type="password" id="pass-d" />
+            <p class="error"></p>
+          </div>
+          <div class="btn-section">
+            <button type="button" id="bck" onclick="back()">Back</button>
+            <button type="button" id="submit" onclick="submitin()">
+              Submit
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="Alldetails"></div>
+    
+    <script src="./js/script.js"></script>
+  </body>
+</html>

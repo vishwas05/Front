@@ -1,0 +1,341 @@
+.call{
+    padding: 0px 4px;
+    color: white;
+}
+            
+.contain{
+    display: flex;
+    background-color: hsl(220deg 41% 21%);
+    justify-content: end;
+    padding: 0px 130px;
+}
+
+.phone{
+    padding: 0px 40px;
+}
+
+.img{
+    width: 350px;
+    height: 70px;
+    position: relative;
+    bottom: 7px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+}
+.ul li{
+    padding: 0 6px;
+}
+.now{
+    border-radius: 50px;
+    margin-top: 8px;
+    border: none;
+    background-color: hsl(7deg 100% 65%);
+    padding: 10px 20px;
+    color: white;
+}
+
+.img1{
+    display: flex;
+    align-items: center;
+}
+.contain1{
+    display: flex;
+    background-color: white;
+    height: 57px;
+}
+.vector{
+    border: 1px solid black;
+    justify-content: space-around;
+    display: flex;
+}
+.vector1{
+    border: 1px solid black;
+    justify-content: space-around;
+    display: flex;
+}
+.size{
+    height: 350px;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    right: 80px;
+}
+.whitee{
+    color: white;
+}
+.eclips{
+    background-image: url(/Assets/images/Ellipse\ 3.png);
+    
+    
+    background-repeat: no-repeat;
+    width: 578px;
+    height: 550px;
+}
+
+.eclips2{
+    background-image: url(/Assets/images/gola-2.png);
+    background-repeat: no-repeat;
+    height: 553px;
+    position: relative;
+    left: 157px;
+}
+.mid_content{
+    display: flex; 
+}
+.imgflex{
+   display: flex;
+   justify-content: space-between;
+}
+.get{
+    font-size: 40px;
+    color: hsl(220deg 41% 21%);
+    /* display: flex;
+    justify-content: center; */
+}
+.best{
+    font-size: 70px;
+    font-weight: bold;
+    color: hsl(220deg 41% 21%);
+    /* display: flex;
+    flex-direction: row-reverse; */
+    
+}
+.electric{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: cursive;
+    color: hsl(7deg 100% 65%);
+    
+    /* display: flex;
+    justify-content: center;
+     */
+
+}
+.get1{
+    line-height: 25px;
+}
+#cars{
+    padding: 12px;
+    width: 129px;
+    border-radius: 5px;
+}
+.submit{
+border-radius: 6px;
+/* padding: 11px; */
+}
+.box{
+    padding: 15px 30px;
+    background: white;
+    border-radius: 10px;
+}
+/* .down{
+    width: 300px;
+} */
+.midshift{
+    padding: 40px;
+    background-color: hsl(4deg 100% 97%);
+}
+.piccado{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.down{
+    position: relative;
+    right: 129px;
+    top: 46px;
+}
+.container{
+    overflow-x: hidden;
+}
+.lorem1{
+    width: 550px;
+}
+.flex001{
+    display: flex;
+    justify-content: center;
+}
+/* .images02{
+    margin: 8% 15%;
+} */
+.span{
+    display: flex;
+}
+.button{
+    height: 80px;
+    width: 80px;
+    background-color: hsl(7deg 100% 65%);
+    border-radius: 10px;
+    border: none;
+}
+.button005{
+    height: 80px;
+    width: 80px;
+    background-color: hsl(220deg 41% 21%);
+    border-radius: 10px;
+    border: none;
+
+}
+.button2{
+    padding: 10px 30px;
+    border-radius: 50px;
+   background-color:  hsl(7deg 100% 65%);
+   border: none;
+   color: white;
+
+
+}
+.provide{
+    padding: 0 30px;
+}
+.justify{
+  padding: 80px;
+
+}
+.pixel{
+    padding: 0px 10px;
+}
+.centre{
+    text-align: center;
+}
+.portiong{
+    display: flex;
+}
+.fixing{
+    display: flex;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.fourthportion{
+    /* text-align: center; */
+    background-color: hsl(6deg 100% 63%);
+}
+.flex007{
+    display: flex;
+    justify-content: space-around;
+}
+.flex47{
+    display: flex;
+    justify-content: center;
+}
+.fifthportion{
+    background-image:url(/Assets/images/backgroundcar.png);
+    background-repeat: repeat;
+    background-position: center;
+  
+}
+.flex005{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sixthportion{
+    background-color: hsl(0deg 0% 17%);
+}
+.ipsum{
+    width: 550px;
+    color: white;
+
+}
+.petrol{
+    padding: 0px 50px;
+}
+.lorem5{
+    width: 390px;
+    font-size: 15px;
+}
+.charging{
+  background-color:   hsl(4deg 100% 97%);
+  padding: 0px 0px 40px 20px;
+}
+.flex009{
+    display: flex;
+    justify-content: space-around;
+}
+.battery{
+    background-color: hsl(6deg 100% 63%);
+
+}
+.fourteen{
+  padding: 0px 30px;
+}
+.ninethportion{
+    background-color: hsl(214deg 28% 10%);
+}
+.logoi{
+    position: relative;
+    right: 213px;
+}
+.footpara{
+    color: white;
+    width: 390px;
+    font-size: 13px;
+
+}
+.placeholder{
+    padding: 8px 40px;
+}
+.subs{
+    padding: 8px 12px;
+    background-color: hsl(6deg 100% 63%);
+    color: white;
+}
+.flex069{
+    display: flex;
+    justify-content: space-around;
+}
+.centree{
+    color: white;
+    text-align: center;
+}
+.evenly{
+    padding: 0px 10px;
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 140px;
+    width: 250px;
+
+}
+.imgasicons{
+    padding: 0px 30px;
+}
+.icn{
+    padding: 0px 10px;
+}
+.redd{
+    color:  hsl(7deg 100% 65%);
+}
+.topp{
+    position: relative;
+    top: 20px;
+}
+body{
+    font-family: sans-serif;
+}
+.fontcolor{
+    color: hsl(220deg 41% 21%);
+}
+.build{
+    font-size: 12px;
+}
+.thirdportion{
+    background-color: hsl(0deg 0% 96%);
+}
+.seventhportion{
+    background-color: hsl(0deg 0% 96%);
+}
+.eightportion{
+    background-color: hsl(0deg 0% 96%);
+}
+ @media screen and (min-width: 480px) {
+        body {
+          background-color: white;
+        }
+      }
